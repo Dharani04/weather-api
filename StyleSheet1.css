@@ -1,0 +1,19 @@
+﻿body {
+    background-color: antiquewhite;
+    
+}
+}
+.button-style {
+    background-color: darkgray;
+    border: none;
+    color: black;
+    padding: 15px 26px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+.size {
+    padding: 150px 260px;
+    text-emphasis-style: sesame;
+    font-family: "Times New Roman", Times, serif;
+}
