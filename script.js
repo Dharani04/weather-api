@@ -35,4 +35,3 @@
     var x = document.getElementById("city").value;
     xmlhttp.open("GET", "https://api.openweathermap.org/data/2.5/weather?q=" + x + "&APPID=f95bb1c4315440b1c7e1d2555fb82972", true);
     xmlhttp.send();
-}
